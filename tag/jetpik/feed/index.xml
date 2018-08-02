@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>JetPik Reviews | Alex&#039;s Oral Health</title>
+	<atom:link href="/tag/jetpik/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Quality tips and advice on oral health</description>
+	<lastBuildDate>Sun, 31 Dec 2017 10:24:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/11/cropped-Logo-512x512-32x32.png</url>
+	<title>JetPik Reviews | Alex&#039;s Oral Health</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Jetpik JP200 Review</title>
+		<link>/water-flossers/jetpik-jp200-review/</link>
+		<pubDate>Tue, 29 Nov 2016 08:33:23 +0000</pubDate>
+		<dc:creator><![CDATA[alex]]></dc:creator>
+				<category><![CDATA[Water Flossers]]></category>
+		<category><![CDATA[JetPik Reviews]]></category>
+
+		<guid isPermaLink="false">https://alexsreviewroom.com/?page_id=424</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="/water-flossers/jetpik-jp200-review/">Jetpik JP200 Review</a> appeared first on <a rel="nofollow" href="/">Alex&#039;s Oral Health</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>JetPik JP210 Solo Review</title>
+		<link>/water-flossers/jetpik-jp210-solo-review/</link>
+		<comments>/water-flossers/jetpik-jp210-solo-review/#respond</comments>
+		<pubDate>Sat, 17 Sep 2016 10:08:51 +0000</pubDate>
+		<dc:creator><![CDATA[alex]]></dc:creator>
+				<category><![CDATA[Water Flossers]]></category>
+		<category><![CDATA[JetPik Reviews]]></category>
+
+		<guid isPermaLink="false">/?p=742</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="/water-flossers/jetpik-jp210-solo-review/">JetPik JP210 Solo Review</a> appeared first on <a rel="nofollow" href="/">Alex&#039;s Oral Health</a>.</p>
+]]></description>
+		<wfw:commentRss>/water-flossers/jetpik-jp210-solo-review/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

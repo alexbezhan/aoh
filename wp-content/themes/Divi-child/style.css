@@ -1,0 +1,220 @@
+/*
+CTC Separate Stylesheet
+Updated: 2016-11-09 05:57:05
+Theme Name: Divi Child
+Theme URI: http://www.elegantthemes.com/gallery/divi/
+Template: Divi
+Author: Elegant Themes
+Author URI: http://www.elegantthemes.com
+Description: Smart. Flexible. Beautiful. Divi is the most powerful theme in our collection.
+Tags: responsive-layout,one-column,two-columns,three-columns,four-columns,left-sidebar,right-sidebar,custom-background,custom-colors,featured-images,full-width-template,post-formats,rtl-language-support,theme-options,threaded-comments,translation-ready
+Version: 2.7.3.1478671025
+*/
+@import url('/wp-content/themes/Divi/style.css');
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Black.eot');
+    src: url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Black.eot#iefix') format('embedded-opentype'), url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Black.woff2') format('woff2'), url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Black.woff') format('woff'), url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Black.ttf') format('truetype'), url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Black.svg#Avenir-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Book';
+    src: url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Book.eot');
+    src: url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Book.eot#iefix') format('embedded-opentype'), url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Book.woff2') format('woff2'), url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Book.woff') format('woff'), url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Book.ttf') format('truetype'), url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Book.svg#Avenir-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Heavy.eot');
+    src: url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Heavy.eot#iefix') format('embedded-opentype'), url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Heavy.woff2') format('woff2'), url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Heavy.woff') format('woff'), url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Heavy.ttf') format('truetype'), url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Heavy.svg#Avenir-Heavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Light.eot');
+    src: url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Light.eot#iefix') format('embedded-opentype'), url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Light.woff2') format('woff2'), url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Light.woff') format('woff'), url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Light.ttf') format('truetype'), url('/wp-content/themes/Divi-child/css/fonts/avenir/Avenir-Light.svg#Avenir-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+body, input, textarea, select {
+    font-family: Avenir, Helvetica, Arial, sans-serif !important;
+}
+p, ul, li {
+    line-height: 28px !important;
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.img-wrapper {
+    border: 1px solid #dad3cc;
+    text-align: center;
+    width: 46%;
+    line-height: 0;
+}
+
+.et_pb_gallery_title {
+    display: none;
+}
+
+.hidden {
+    display: none;
+}
+.pdf-icon {
+    background: url(/wp-content/uploads/2016/11/pdf-icon-png-17-e1480255505280.png);
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+}
+.custom-logo {
+    background: url(/wp-content/uploads/2016/11/Logo-133x80.png) no-repeat;
+    background-size: 133px 80px;
+    width: 133px;
+    height: 80px;
+    display: inline-block;
+}
+.et-fixed-header .custom-logo {
+    background: url(/wp-content/uploads/2016/11/Logo-90x54.png) no-repeat;
+    background-size: 90px 54px;
+}
+.custom-logo span {
+    display: none;
+}
+/* product table BEGIN */
+.product-table .et_pb_pricing_heading {
+    background-color: transparent;
+    margin-bottom: 32px;
+    margin-top: 0;
+}
+.product-table .et_pb_featured_table .et_pb_pricing_heading {
+    margin-bottom: 0;
+}
+.product-table .et_pb_pricing_table {
+    background-color: transparent;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.product-table .et_pb_pricing li:first-child {
+    text-align: center;
+    padding: 0;
+}
+.product-table .et_pb_pricing_content {
+    padding: 0;
+}
+.product-table .et_pb_pricing li:first-child span:before,
+.product-table .et_pb_pricing li:nth-child(2) span:before,
+.product-table .et_pb_pricing li:last-child span:before {
+    content: none;
+}
+.product-table .et_pb_pricing li:nth-child(2) {
+    text-align: center;
+    padding: 0;
+    margin-bottom: 1.1em;
+    margin-left: 0;
+}
+.product-table .et_pb_pricing li:not(:first-child):not(:last-child):not(:nth-child(2)) {
+    margin-left: 15px;
+}
+.product-table .et_pb_best_value {
+    background-color: #82c0c7;
+    border-radius: 2px;
+    text-transform: uppercase;
+    padding: 6px 0;
+}
+.product-table .et_pb_featured_table:first-child .et_pb_best_value {
+    background-color: #cea052;
+}
+.product-table .et_pb_pricing_title {
+    color: inherit;
+    font-size: 22px;
+    margin: 0;
+    padding: 15px 0;
+}
+.product-table .et_pb_pricing_content {
+    padding-bottom: 18px;
+}
+.product-table .et_pb_pricing_content_top {
+    display: none;
+}
+.product-table .et_pb_button {
+    color: #cea052;
+}
+.product-table .et_pb_button:hover {
+    background-color: #cea052;
+    color: white;
+}
+.product-table.five-wide, .product-table.sixth-wide {
+    zoom: 0.8;
+}
+.product-table.five-wide .et_pb_pricing_table, .product-table.sixth-wide .et_pb_pricing_table {
+    margin-top: 0 !important;
+    clear: none !important;
+}
+.product-table.five-wide .et_pb_pricing_table {
+    width: 20%;
+}
+.product-table.five-wide .et_pb_pricing_title {
+    font-size: 20px;
+}
+.product-table.sixth-wide .et_pb_pricing_table {
+    width: 16%;
+}
+.product-table.sixth-wide .et_pb_pricing_title {
+    font-size: 18px;
+}
+/* product table END */
+.custom-logo {
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+}
+.toc-detail {
+    color: black;
+}
+.toc-detail:before {
+    content: "#";
+}
+/* retina CSS BEGIN */
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+    .custom-logo {
+        background: url(/wp-content/uploads/2016/11/Logo-266x160.png) no-repeat;
+        background-size: 133px 80px;
+    }
+    .et-fixed-header .custom-logo {
+        background: url(/wp-content/uploads/2016/11/Logo-179x108.png) no-repeat;
+        background-size: 90px 54px;
+    }
+}
+/* retina CSS END */
+
+@media only screen and (min-width: 1350px) {
+    .single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper {
+        padding-top: 20px !important;
+    }
+    .et_pb_section {
+        padding: 0 !important;
+    }
+}
+/*
+ TODO
+ hide A/B testing articles on the home page
+ */
+.home #post-2007, .home #post-2014 {
+    display: none;
+}

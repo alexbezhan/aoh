@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>For Kids | Alex&#039;s Oral Health</title>
+	<atom:link href="/for-kids/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Quality tips and advice on oral health</description>
+	<lastBuildDate>Sun, 31 Dec 2017 10:24:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/11/cropped-Logo-512x512-32x32.png</url>
+	<title>For Kids | Alex&#039;s Oral Health</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>(Infographic) Getting Braces: Facts For Kids</title>
+		<link>/braces/infographic-getting-braces-for-kids/</link>
+		<comments>/braces/infographic-getting-braces-for-kids/#respond</comments>
+		<pubDate>Thu, 08 Sep 2016 19:12:26 +0000</pubDate>
+		<dc:creator><![CDATA[alex]]></dc:creator>
+				<category><![CDATA[Braces]]></category>
+		<category><![CDATA[For Kids]]></category>
+
+		<guid isPermaLink="false">/?p=792</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="/braces/infographic-getting-braces-for-kids/">(Infographic) Getting Braces: Facts For Kids</a> appeared first on <a rel="nofollow" href="/">Alex&#039;s Oral Health</a>.</p>
+]]></description>
+		<wfw:commentRss>/braces/infographic-getting-braces-for-kids/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>7 Tips To Teach Your Kid Flossing And Brushing</title>
+		<link>/for-kids/teach-kid-flossing-and-brushing/</link>
+		<comments>/for-kids/teach-kid-flossing-and-brushing/#respond</comments>
+		<pubDate>Mon, 05 Sep 2016 21:45:20 +0000</pubDate>
+		<dc:creator><![CDATA[alex]]></dc:creator>
+				<category><![CDATA[For Kids]]></category>
+
+		<guid isPermaLink="false">/?p=774</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="/for-kids/teach-kid-flossing-and-brushing/">7 Tips To Teach Your Kid Flossing And Brushing</a> appeared first on <a rel="nofollow" href="/">Alex&#039;s Oral Health</a>.</p>
+]]></description>
+		<wfw:commentRss>/for-kids/teach-kid-flossing-and-brushing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
